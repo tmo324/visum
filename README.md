@@ -3,11 +3,6 @@ Script that will detect if a stranger is trying to use your laptop or if a stran
 
 
 
-<p align="center">
-  <img src="https://cdn.shopify.com/s/files/1/0074/1094/2067/articles/journal-post_1600x.jpg?v=1553218777" width="632" height="316"/>
-</p>
-
-<img src="readmefiles/desert.png" width="400"> <img src="readmefiles/desertdetected.png" width="400">
 
 ## Prerequisites
 You need to install the following
