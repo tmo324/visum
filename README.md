@@ -20,9 +20,3 @@ After cloning the repository, change the "main(**your file name**)" at the botto
 ## Versioning
 For the versions available, see the tags on this repository.
 
-## Authors
-Tergel Molom-Ochir - Initial work
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
